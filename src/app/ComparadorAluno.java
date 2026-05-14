@@ -1,3 +1,5 @@
+package app;
+
 import java.util.Comparator;
 
 public class ComparadorAluno implements Comparator<Aluno> {
